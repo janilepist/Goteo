@@ -1,5 +1,5 @@
-<?php
-/*
+
+
  *  Copyright (C) 2012 Platoniq y Fundación Fuentes Abiertas (see README for details)
  *	This file is part of Goteo.
  *
